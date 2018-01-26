@@ -1,0 +1,76 @@
+! special
+*.foreground:   #f8f8f2
+*.background:   #272822
+*.cursorColor:  #f8f8f2
+
+! black
+*.color0:       #272822
+*.color8:       #75715e
+
+! red
+*.color1:       #f92672
+*.color9:       #f92672
+
+! green
+*.color2:       #a6e22e
+*.color10:      #a6e22e
+
+! yellow
+*.color3:       #f4bf75
+*.color11:      #f4bf75
+
+! blue
+*.color4:       #66d9ef
+*.color12:      #66d9ef
+
+! magenta
+*.color5:       #ae81ff
+*.color13:      #ae81ff
+
+! cyan
+*.color6:       #a1efe4
+*.color14:      #a1efe4
+
+! white
+*.color7:       #f8f8f2
+*.color15:      #f9f8f5
+
+! Snazzy - Converted from https://github.com/sindresorhus/iterm2-snazzy
+!          using https://github.com/richo/itermcolors2xdefaults
+!URxvt*background:   #1e1f28
+!URxvt*foreground:   #ebece6
+!URxvt*cursorColor:   #e4e4e4
+!URxvt*color0:   #000
+!URxvt*color1:   #fb4245
+!URxvt*color2:   #50fa7b
+!URxvt*color3:   #f0fa8b
+!URxvt*color4:   #49b9fe
+!URxvt*color5:   #fb4cb3
+!URxvt*color6:   #8be9fd
+!URxvt*color7:   #ededec
+!URxvt*color8:   #555555
+!URxvt*color9:   #fb4245
+!URxvt*color10:   #50fa7b
+!URxvt*color11:   #f0fa8b
+!URxvt*color12:   #49b9fe
+!URxvt*color13:   #fb4cb3
+!URxvt*color14:   #8be9fd
+!URxvt*color15:   #ededec
+
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! Copyright: Étienne Deparis
+! ------------------------------------------------------------------------------
+! "Color scheme for normal row" Set from: File
+rofi.color-normal:                   argb:00272822, #f8f8f2, argb:00272822, #141411, #f8f8f2
+! "Color scheme for urgent row" Set from: File
+rofi.color-urgent:                   argb:00272822, #f92672, argb:00272822, #f92672, #f8f8f2
+! "Color scheme for active row" Set from: File
+rofi.color-active:                   argb:00272822, #a6e22a, argb:00272822, #141411, #a6e22a
+! "Color scheme window" Set from: File
+rofi.color-window:                   argb:ee272822, #002b36, #e6db74
+! "Separator style (none, dash, solid)" Set from: File
+rofi.separator-style:                dash
+
+
+

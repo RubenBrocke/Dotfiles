@@ -1,0 +1,16 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Wacom_Utility
+Type=Application
+Exec=/usr/share/wacom-utility/wacom_utility.py -c
+Terminal=false
+Icon=None
+Comment=Apply tablet settings on boot
+Categories=Utility;
+Hidden=false
+Name[en_CA]=Wacom_Utility.desktop
+Comment[en_CA]=This applies settings on boot
+X-GNOME-Autostart-enabled=true
